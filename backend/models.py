@@ -1,0 +1,1 @@
+# Placeholder for future ORM if needed (e.g., SQLAlchemy). For now, direct Supabase calls suffice.

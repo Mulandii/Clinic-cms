@@ -1,0 +1,8 @@
+Flask==2.3.3
+Flask-JWT-Extended==4.5.2
+Flask-CORS==4.0.0
+bcrypt==5.0.0
+pyotp==2.8.0
+supabase==1.0.3
+python-dotenv==1.0.0
+gunicorn==21.2.0  # For Heroku deployment
